@@ -2,9 +2,12 @@
 O-RAN Deployment with 2 slices and disaggregated RAN Components
 
 ### We took the inspiration from this documentation: [Proactive 1 GitHub](https://github.com/whitedevil-iith/O-RAN_srsRAN)
+<!--  
 
 ### Clone the repo
 `git clone https://github.com/whitedevil-iith/O-RAN_srsRAN.git`
+
+-->
 
 ### Give permission for all the pre_req scripts
 Docker script: `sudo chmod +x install_docker.sh` <br>
