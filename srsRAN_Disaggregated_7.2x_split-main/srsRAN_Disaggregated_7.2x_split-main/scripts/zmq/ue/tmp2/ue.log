@@ -1,7 +1,0 @@
-2024-12-28T09:49:33.665816 [UE     ] [I] Using binary srsue with arguments: /configs/ue.conf 
-2024-12-28T09:49:33.798220 [UE     ] [W] Number of cpu is greater than supported. CPU metrics will be disabled.
-2024-12-28T09:49:33.798293 [UE     ] [I] Built in Release mode using commit ec29b0c1f on branch master.
-2024-12-28T09:49:34.055717 [RF     ] [I] Configuring physical DL channel 0 with band-pass filter (0.0, 0.0)
-2024-12-28T09:49:34.055719 [RF     ] [I] Configuring physical UL channel 0 with band-pass filter (0.0, 0.0)
-2024-12-28T09:49:35.364054 [RF     ] [E] Error opening RF device
-2024-12-28T09:49:35.364057 [RF     ] [E] Error opening RF device 0
