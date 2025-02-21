@@ -26,8 +26,12 @@ sudo reboot
 # Now run the second script for installing RIC
 ./install_RIC.sh
 
+<!--
 # Now run the 3rd script for installing grafana
 ./install_grafana.sh
+-->
+
+
 
 ```
 
