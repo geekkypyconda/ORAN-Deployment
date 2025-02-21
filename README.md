@@ -1,8 +1,6 @@
 # ORAN-Deployment
 O-RAN Deployment with 2 slices and disaggregated RAN Components
 
-## Link of the souce zip file: [Proactive 1](https://drive.google.com/file/d/1jFCMQ3aJz699XZSn2jYUROc-LMUHVzKT/view?usp=sharing)
-
 ### We took the inspiration from this documentation: [Proactive 1 GitHub](https://github.com/whitedevil-iith/O-RAN_srsRAN)
 
 ### Clone the repo
